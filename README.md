@@ -9,7 +9,7 @@
 <h3 align="left">About</h3>
 
 - 👾 Tech and Creative Enthusiast
-- 👀 I’m interested in UI/UX Design, Web Development especially in front end developer, and Artificial Intelligence
+- 👀 I’m interested in UI/UX Design, Web Development, and Artificial Intelligence
 - 😄 You can call me Mi or Waz!
 - ⚡ Surviving on broken sleep thanks to GemasTIK
 - 🏷️ Iso Ra Iso, Kudu Iso!
