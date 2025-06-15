@@ -6,6 +6,10 @@
    <a href="mailto:hilmi.saad31082004@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hilmifawwazsaad&label=Visitors&color=brightgreen" alt="Pengunjung" />
+</p>
+
 <h3 align="left">About</h3>
 
 - 👾 Tech and Creative Enthusiast
