@@ -1,4 +1,4 @@
-<h1 align="center">Hello all 👋, I'm Hilmi Fawwaz Sa'ad</h1>
+<h1 align="center">Hello all 👋, I'm Hilmi Fawwaz Sa'a</h1>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/hilmi-fawwaz-sa-ad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -13,7 +13,7 @@
 <h3 align="left">About</h3>
 
 - 👾 Tech and Creative Enthusiast
-- 👀 I’m interested in UI/UX Design, Web Development, and Artificial Intelligence
+- 👀 I’m interested in UI/UX Design, Project Management, and Web Development
 - 😄 You can call me Mi or Waz!
 - ⚡ Surviving on broken sleep thanks to GemasTIK
 - 🏷️ Iso Ra Iso, Kudu Iso!
