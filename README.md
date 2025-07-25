@@ -1,4 +1,4 @@
-<h1 align="center">Hello all 👋, I'm Hilmi Fawwaz Sa'a</h1>
+<h1 align="center">Hello all 👋, I'm Hilmi Fawwaz Sa'ad</h1>
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/hilmi-fawwaz-sa-ad" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
