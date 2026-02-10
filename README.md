@@ -20,7 +20,7 @@
 
 </div>
 
-- 😄 You can call me Mi or Waz  
+- 😄 You can call me Hilmi (Hil / Mi) or Fawwaz (Faw / Waz)  
 - 👾 Tech & Creative Enthusiast  
 - 👀 Interested in UI/UX Design, Project Management, and Web Development  
 - 🏆 Enjoy participating in tech competitions such as GemasTIK 
