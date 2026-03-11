@@ -23,7 +23,7 @@
 - 😄 You can call me Hilmi (Hil / Mi) or Fawwaz (Faw / Waz)  
 - 👾 Tech & Creative Enthusiast  
 - 👀 Interested in UI/UX Design, Project Management, and Web Development  
-- 🏆 Enjoy participating in tech competitions such as GemasTIK 
+- 🏆 Enjoy participating in tech competitions such as GemasTIK and Hackathon
 - 🎨 Love combining creativity with technology  
 - 📚 Always learning new technologies and improving my English
 
