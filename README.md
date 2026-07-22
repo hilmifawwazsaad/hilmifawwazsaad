@@ -26,7 +26,7 @@
 - 🏆 Enjoy participating in tech competitions such as GemasTIK and Hackathon
 - 🎨 Love combining creativity with technology  
 - 📚 Always learning new technologies and improving my English
-- 🚀 Currently exploring React, Next.js, Go, Node.js, and Express.js - and just started diving into Kotlin!
+- 🚀 Currently exploring React, Next.js, Vue, Go, Node.js, and Express.js - and just started diving into Kotlin!
 
 <div align="center">
 
